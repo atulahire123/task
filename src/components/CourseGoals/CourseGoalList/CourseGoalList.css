@@ -1,0 +1,18 @@
+/* CourseGoalList.css */
+
+.goal-list {
+  list-style: none;
+  padding: 0;
+}
+
+.goal-list li {
+  margin-bottom: 8px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+}
+
+.goal-list li:last-child {
+  margin-bottom: 0;
+}
